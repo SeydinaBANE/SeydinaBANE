@@ -2,9 +2,9 @@
 
 # Hi, I'm Seydina Mouhamet BANE 👋
 
-### Data Scientist & AI Engineer · Dakar, Senegal 🇸🇳
+### Data Scientist & AI Engineer 
 
-*Building intelligent systems for West Africa's digital economy*
+
 
 [![Website](https://img.shields.io/badge/Website-optimaia.sn-0078D4?style=flat&logo=google-chrome&logoColor=white)](https://www.optimaia.sn)
 [![Email](https://img.shields.io/badge/Email-seriegalsen9@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seriegalsen9@gmail.com)
