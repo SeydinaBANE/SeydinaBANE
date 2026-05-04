@@ -67,8 +67,6 @@
 | 🤖 [**Agent 007 — AI Chat Boilerplate**](https://github.com/SeydinaBANE/agent-007) | Open-source multi-model AI chat starter (Claude, GPT-4o, Gemini, Llama) | Next.js 16 · Supabase · TypeScript · OpenRouter |
 | 💬 [**WhatsApp AI Bot**](https://github.com/SeydinaBANE/whatsapp-bot) | Production-ready WhatsApp chatbot powered by Claude AI | TypeScript · Claude AI · Supabase · Wazender |
 | 🧩 [**Claude Starter Kit**](https://github.com/SeydinaBANE/claude-starter-kit) | Universal starter kit for building projects with Claude Code | Claude Code · CLAUDE.md · Developer Tools |
-| 🕸️ [**Idun Agent Platform**](https://github.com/SeydinaBANE/idun-agent-platform) | Open-source GenAI agent platform with tracing, memory, sessions & MCP support | TypeScript · MCP · LLM · Observability |
-
 ---
 
 ## GitHub Stats
