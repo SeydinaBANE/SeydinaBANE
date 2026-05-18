@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a3a5c&height=200&section=header&text=Seydina%20Mouhamet%20BANE&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%26%20Multi-Agent%20Systems%20Builder&descSize=18&descAlignY=62&descColor=7eb8f7)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a3a5c&height=200&section=header&text=Seydina%20Mouhamet%20BANE&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%26%20Multi-Agent%20Systems%20Builder&descSize=18&descAlignY=62&descColor=7eb8f7" width="100%" alt="banner" />
 
 # Hi, I'm Seydina Mouhamet BANE 👋
 
