@@ -62,11 +62,12 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔍 [**Fraud Detection — West Africa Fintech**](https://github.com/SeydinaBANE/fintech-fraud-detection) | Real-time fraud detection for Mobile Money (Orange Money, Wave, MTN MoMo) — XGBoost + Claude AI analysis reports | Python · XGBoost · FastAPI · Streamlit · MLflow · Claude AI |
-| ⚙️ [**MLOps Pipeline**](https://github.com/SeydinaBANE/projet-mlOps) | End-to-end ML pipeline: ingestion → transformation → model → API → dashboard | Airflow · scikit-learn · PostgreSQL · Dash |
-| 🤖 [**Agent 007 — AI Chat Boilerplate**](https://github.com/SeydinaBANE/agent-007) | Open-source multi-model AI chat starter (Claude, GPT-4o, Gemini, Llama) | Next.js 16 · Supabase · TypeScript · OpenRouter |
-| 💬 [**WhatsApp AI Bot**](https://github.com/SeydinaBANE/whatsapp-bot) | Production-ready WhatsApp chatbot powered by Claude AI | TypeScript · Claude AI · Supabase · Wazender |
-| 🧩 [**Claude Starter Kit**](https://github.com/SeydinaBANE/claude-starter-kit) | Universal starter kit for building projects with Claude Code | Claude Code · CLAUDE.md · Developer Tools |
+| 🖥️ [**Dev Senior**](https://github.com/SeydinaBANE/Dev-Senior) | Deux agents IA internes sur Mac mini M4 — Dev Senior (code, review) & Business Manager (SEO, CRM) | Pydantic AI · OpenRouter · Qdrant · FastAPI · React · n8n · Langfuse · MCP |
+| 🤖 [**Multi-Agent System**](https://github.com/SeydinaBANE/multi-agent-system) | Système multi-agents LangGraph + FastAPI : routage chat/pipeline, RAG Qdrant, MCP Brave Search, streaming WebSocket | LangGraph · FastAPI · Qdrant · Redis · Next.js 14 |
+| 🔍 [**Fraud Detection — West Africa Fintech**](https://github.com/SeydinaBANE/fintech-fraud-detection) | Détection de fraude temps réel pour Mobile Money (Orange Money, Wave, MTN MoMo) — XGBoost + Claude AI | Python · XGBoost · FastAPI · Streamlit · Claude AI |
+| 🗄️ [**RAG Fintech**](https://github.com/SeydinaBANE/rag-fintech) | Chatbot Text-to-SQL pour l'analyse de fraude fintech en Afrique de l'Ouest | LangChain · Claude Haiku · PostgreSQL · Streamlit |
+| 📢 [**Agent LinkedIn**](https://github.com/SeydinaBANE/agent-linkdin) | Pipeline multi-agents : Research → Draft → Review → Publish. Génère des posts LinkedIn avec Claude | LangGraph · Claude · OpenRouter · Python |
+| 💬 [**WhatsApp AI Bot**](https://github.com/SeydinaBANE/whatsapp-bot) | Chatbot WhatsApp production-ready propulsé par Claude AI | TypeScript · Claude AI · Supabase · Wazender |
 ---
 
 ## GitHub Stats
