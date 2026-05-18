@@ -7,6 +7,7 @@
 
 
 [![Website](https://img.shields.io/badge/Website-optimaia.sn-0078D4?style=flat&logo=google-chrome&logoColor=white)](https://www.optimaia.sn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seydina-mouhamet-bane-4710931a1/)
 [![Email](https://img.shields.io/badge/Email-baneseydinamouhamet@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:baneseydinamouhamet@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=SeydinaBANE&color=0e75b6&style=flat&label=Profile+Views)
 
@@ -20,6 +21,7 @@
 - 🌍 Based in Dakar — working globally on AI automation, fintech, and intelligent agents
 - 🏢 Company: [OptimaIA](https://www.optimaia.sn) · Dakar, Senegal
 - 🧠 Stack: Python · LangGraph · Pydantic AI · FastAPI · Claude API · OpenRouter · TypeScript
+- 🤝 Open to: freelance missions, technical consulting, AI project collaborations
 - 🎯 Mission: ship production-grade AI systems that solve real business problems
 
 ---
@@ -101,6 +103,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/optimaia.sn-Visit-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.optimaia.sn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seydina-mouhamet-bane-4710931a1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baneseydinamouhamet@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeydinaBANE)
 
