@@ -16,10 +16,10 @@
 
 ## About Me
 
-- 🔭 Currently building: fraud detection systems, MLOps pipelines, AI agents
-- 🌍 Focus: AI solutions for West African fintech — Mobile Money, fraud, automation
+- 🔭 Currently building: multi-agent systems, local AI infrastructure (Mac mini M4), fintech AI solutions
+- 🌍 Focus: AI solutions for West African fintech — Mobile Money, fraud detection, automation
 - 🏢 Company: [OptimaIA](https://www.optimaia.sn) · Dakar, Senegal
-- 🧠 Stack: Python · XGBoost · FastAPI · LangChain · Claude API · Streamlit · TypeScript
+- 🧠 Stack: Python · LangGraph · Pydantic AI · FastAPI · Claude API · OpenRouter · TypeScript
 - 🎯 Mission: make enterprise-grade AI accessible for African markets
 
 ---
@@ -31,30 +31,39 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **AI & Agents**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D4A017?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D4A017?style=flat)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat)
+![MCP](https://img.shields.io/badge/MCP-6B48FF?style=flat)
 
 **APIs & Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**MLOps & Observability**
+
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 **Dashboards & Frontend**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
