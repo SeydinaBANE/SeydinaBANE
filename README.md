@@ -2,7 +2,7 @@
 
 # Hi, I'm Seydina Mouhamet BANE 👋
 
-### Data Scientist & AI Engineer 
+### AI Engineer & Multi-Agent Systems Builder
 
 
 
@@ -16,11 +16,11 @@
 
 ## About Me
 
-- 🔭 Currently building: multi-agent systems, local AI infrastructure (Mac mini M4), fintech AI solutions
-- 🌍 Focus: AI solutions for West African fintech — Mobile Money, fraud detection, automation
+- 🔭 Currently building: multi-agent systems, local AI infrastructure (Mac mini M4), production AI solutions
+- 🌍 Based in Dakar — working globally on AI automation, fintech, and intelligent agents
 - 🏢 Company: [OptimaIA](https://www.optimaia.sn) · Dakar, Senegal
 - 🧠 Stack: Python · LangGraph · Pydantic AI · FastAPI · Claude API · OpenRouter · TypeScript
-- 🎯 Mission: make enterprise-grade AI accessible for African markets
+- 🎯 Mission: ship production-grade AI systems that solve real business problems
 
 ---
 
