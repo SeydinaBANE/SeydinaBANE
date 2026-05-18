@@ -7,7 +7,7 @@
 
 
 [![Website](https://img.shields.io/badge/Website-optimaia.sn-0078D4?style=flat&logo=google-chrome&logoColor=white)](https://www.optimaia.sn)
-[![Email](https://img.shields.io/badge/Email-seriegalsen9@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seriegalsen9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-baneseydinamouhamet@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:baneseydinamouhamet@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=SeydinaBANE&color=0e75b6&style=flat&label=Profile+Views)
 
 </div>
@@ -101,7 +101,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/optimaia.sn-Visit-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.optimaia.sn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seriegalsen9@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baneseydinamouhamet@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeydinaBANE)
 
 </div>
