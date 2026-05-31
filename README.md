@@ -1,16 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=130&section=header&text=Seydina%20Mouhamet%20BANE&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Multi-Agent%20Systems%20Builder&descAlignY=56&descSize=17" />
+
 <div align="center">
 
-
-# Hi, I'm Seydina Mouhamet BANE 👋
-
-### AI Engineer & Multi-Agent Systems Builder
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+Multi-Agent+Builder+%F0%9F%A4%96;LangGraph+%7C+Pydantic+AI+%7C+Claude+API;Building+Production+AI+Systems+%F0%9F%9A%80;Open+to+Consulting+%26+Freelance+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-optimaia.sn-0078D4?style=flat&logo=google-chrome&logoColor=white)](https://www.optimaia.sn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seydina-mouhamet-bane-4710931a1/)
-[![Email](https://img.shields.io/badge/Email-baneseydinamouhamet@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:baneseydinamouhamet@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=SeydinaBANE&color=0e75b6&style=flat&label=Profile+Views)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:baneseydinamouhamet@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SeydinaBANE-181717?style=flat&logo=github&logoColor=white)](https://github.com/SeydinaBANE)
+![Profile Views](https://komarev.com/ghpvc/?username=SeydinaBANE&color=1f6feb&style=flat&label=Profile+Views)
+![Available](https://img.shields.io/badge/Available%20for-Consulting%20%26%20Freelance-28a745?style=flat)
 
 </div>
 
@@ -18,12 +17,12 @@
 
 ## About Me
 
-- 🔭 Currently building: multi-agent systems, local AI infrastructure (Mac mini M4), production AI solutions
-- 🌍 Based in Dakar — working globally on AI automation, fintech, and intelligent agents
-- 🏢 Company: [OptimaIA](https://www.optimaia.sn) · Dakar, Senegal
-- 🧠 Stack: Python · LangGraph · Pydantic AI · FastAPI · Claude API · OpenRouter · TypeScript
-- 🤝 Open to: freelance missions, technical consulting, AI project collaborations
-- 🎯 Mission: ship production-grade AI systems that solve real business problems
+- 🔭 **Currently building:** multi-agent systems, local AI infrastructure (Mac mini M4), production AI solutions
+- 🌍 **Based in** Dakar — working globally on AI automation, fintech, and intelligent agents
+- 🏢 **Company:** [OptimaIA](https://www.optimaia.sn) · Dakar, Senegal
+- 🧠 **Stack:** Python · LangGraph · Pydantic AI · FastAPI · Claude API · OpenRouter · TypeScript
+- 🤝 **Open to:** freelance missions, technical consulting, AI project collaborations
+- 🎯 **Mission:** ship production-grade AI systems that solve real business problems
 
 ---
 
@@ -60,8 +59,10 @@
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-**Dashboards & Frontend**
+**Frontend**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -74,21 +75,22 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🖥️ [**Dev Senior**](https://github.com/SeydinaBANE/Dev-Senior) | Deux agents IA internes sur Mac mini M4 — Dev Senior (code, review) & Business Manager (SEO, CRM) | Pydantic AI · OpenRouter · Qdrant · FastAPI · React · n8n · Langfuse · MCP |
-| 🤖 [**Multi-Agent System**](https://github.com/SeydinaBANE/multi-agent-system) | Système multi-agents LangGraph + FastAPI : routage chat/pipeline, RAG Qdrant, MCP Brave Search, streaming WebSocket | LangGraph · FastAPI · Qdrant · Redis · Next.js 14 |
-| 🔍 [**Fraud Detection — West Africa Fintech**](https://github.com/SeydinaBANE/fintech-fraud-detection) | Détection de fraude temps réel pour Mobile Money (Orange Money, Wave, MTN MoMo) — XGBoost + Claude AI | Python · XGBoost · FastAPI · Streamlit · Claude AI |
-| 🗄️ [**RAG Fintech**](https://github.com/SeydinaBANE/rag-fintech) | Chatbot Text-to-SQL pour l'analyse de fraude fintech en Afrique de l'Ouest | LangChain · Claude Haiku · PostgreSQL · Streamlit |
-| 📢 [**Agent LinkedIn**](https://github.com/SeydinaBANE/agent-linkdin) | Pipeline multi-agents : Research → Draft → Review → Publish. Génère des posts LinkedIn avec Claude | LangGraph · Claude · OpenRouter · Python |
-| 💬 [**WhatsApp AI Bot**](https://github.com/SeydinaBANE/whatsapp-bot) | Chatbot WhatsApp production-ready propulsé par Claude AI | TypeScript · Claude AI · Supabase · Wazender |
+| 🖥️ [**Dev Senior**](https://github.com/SeydinaBANE/Dev-Senior) | Two internal AI agents on Mac mini M4 — Dev Senior (code, review) & Business Manager (SEO, CRM) | Pydantic AI · OpenRouter · Qdrant · FastAPI · React · n8n · Langfuse · MCP |
+| 🤖 [**Multi-Agent System**](https://github.com/SeydinaBANE/multi-agent-system) | LangGraph + FastAPI multi-agent system: auto chat/pipeline routing, Qdrant RAG, MCP Brave Search, WebSocket streaming | LangGraph · FastAPI · Qdrant · Redis · Next.js 14 |
+| 🔍 [**Fraud Detection — West Africa Fintech**](https://github.com/SeydinaBANE/fintech-fraud-detection) | Real-time fraud detection for Mobile Money (Orange Money, Wave, MTN MoMo) — XGBoost + Claude AI | Python · XGBoost · FastAPI · Streamlit · Claude AI |
+| 🗄️ [**RAG Fintech**](https://github.com/SeydinaBANE/rag-fintech) | Text-to-SQL chatbot for West African fintech fraud analysis | LangChain · Claude Haiku · PostgreSQL · Streamlit |
+| 🏛️ [**AI Act Governance**](https://github.com/SeydinaBANE/ai-act-governance-framework) | EU AI Act compliance framework — Risk Scorer, Model Cards, PII Scanner, Audit Log, DSI/DPO Dashboard | Python · FastAPI · Presidio · Streamlit |
+| 🏗️ [**Enterprise GenAI Platform**](https://github.com/SeydinaBANE/enterprise-genai-platform) | Production GenAI platform: RAG + LangGraph agents + MCP + OpenTelemetry + FastAPI | Python · LangGraph · FastAPI · ChromaDB |
+| 📢 [**Agent LinkedIn**](https://github.com/SeydinaBANE/agent-linkdin) | Multi-agent pipeline: Research → Draft → Review → Publish. Generates LinkedIn posts with Claude | LangGraph · Claude · OpenRouter · Python |
+| 💬 [**WhatsApp AI Bot**](https://github.com/SeydinaBANE/whatsapp-bot) | Production-ready WhatsApp chatbot powered by Claude AI | TypeScript · Claude AI · Supabase · Wazender |
+
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SeydinaBANE&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeydinaBANE&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SeydinaBANE&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeydinaBANE&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -96,6 +98,16 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=SeydinaBANE&theme=github-dark&hide_border=true)
 
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SeydinaBANE&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+---
+
+## Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SeydinaBANE&theme=github-compact&hide_border=true&area=true&color=1f6feb&line=1f6feb&point=ffffff" alt="Contribution Activity Graph" />
 
 ---
 
@@ -109,3 +121,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeydinaBANE)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" />
