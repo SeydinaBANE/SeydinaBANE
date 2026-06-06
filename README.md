@@ -89,13 +89,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeydinaBANE&theme=github_dark" alt="GitHub Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeydinaBANE&theme=github_dark" alt="Top Languages" />
-</div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SeydinaBANE&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=SeydinaBANE&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
