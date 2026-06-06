@@ -89,8 +89,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SeydinaBANE&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeydinaBANE&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeydinaBANE&theme=github_dark" alt="GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeydinaBANE&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center">
