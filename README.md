@@ -17,7 +17,7 @@
 
 ## About Me
 
-- 🔭 **Currently building:** multi-agent systems, local AI infrastructure (Mac mini M4), production AI solutions
+- 🔭 **Currently building:** multi-agent systems, local AI infrastructure , production AI solutions
 - 🌍 **Based in** Dakar — working globally on AI automation, fintech, and intelligent agents
 - 🏢 **Company:** [OptimaIA](https://www.optimaia.sn) · Dakar, Senegal
 - 🧠 **Stack:** Python · LangGraph · Pydantic AI · FastAPI · Claude API · OpenRouter · TypeScript
@@ -75,13 +75,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🖥️ [**Dev Senior**](https://github.com/SeydinaBANE/Dev-Senior) | Two internal AI agents on Mac mini M4 — Dev Senior (code, review) & Business Manager (SEO, CRM) | Pydantic AI · OpenRouter · Qdrant · FastAPI · React · n8n · Langfuse · MCP |
 | 🤖 [**Multi-Agent System**](https://github.com/SeydinaBANE/multi-agent-system) | LangGraph + FastAPI multi-agent system: auto chat/pipeline routing, Qdrant RAG, MCP Brave Search, WebSocket streaming | LangGraph · FastAPI · Qdrant · Redis · Next.js 14 |
-| 🔍 [**Fraud Detection — West Africa Fintech**](https://github.com/SeydinaBANE/fintech-fraud-detection) | Real-time fraud detection for Mobile Money (Orange Money, Wave, MTN MoMo) — XGBoost + Claude AI | Python · XGBoost · FastAPI · Streamlit · Claude AI |
 | 🗄️ [**RAG Fintech**](https://github.com/SeydinaBANE/rag-fintech) | Text-to-SQL chatbot for West African fintech fraud analysis | LangChain · Claude Haiku · PostgreSQL · Streamlit |
-| 🏛️ [**AI Act Governance**](https://github.com/SeydinaBANE/ai-act-governance-framework) | EU AI Act compliance framework — Risk Scorer, Model Cards, PII Scanner, Audit Log, DSI/DPO Dashboard | Python · FastAPI · Presidio · Streamlit |
-| 🏗️ [**Enterprise GenAI Platform**](https://github.com/SeydinaBANE/enterprise-genai-platform) | Production GenAI platform: RAG + LangGraph agents + MCP + OpenTelemetry + FastAPI | Python · LangGraph · FastAPI · ChromaDB |
-| 📢 [**Agent LinkedIn**](https://github.com/SeydinaBANE/agent-linkdin) | Multi-agent pipeline: Research → Draft → Review → Publish. Generates LinkedIn posts with Claude | LangGraph · Claude · OpenRouter · Python |
 | 💬 [**WhatsApp AI Bot**](https://github.com/SeydinaBANE/whatsapp-bot) | Production-ready WhatsApp chatbot powered by Claude AI | TypeScript · Claude AI · Supabase · Wazender |
 
 ---
